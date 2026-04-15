@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
-
+/*
 int main() {
 	char code1[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	char code2[] = "hknopijxyzqfgmvwulastbcrde";
@@ -33,3 +33,4 @@ int main() {
 
 	return 0;
 }
+*/
